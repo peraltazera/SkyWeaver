@@ -1,0 +1,88 @@
+{
+    "rank": 1,
+    "imagePrism": "https://assets.skyweaver.net/jLl6UIy4/webapp/icons/prisms/small/STR.png",
+    "winrate": "",
+    "pick": 35,
+    "bestPrism": "",
+    "worstPrism": "",
+    "matches": 17500,
+    "heroImage": "https://assets.skyweaver.net/2EwWrdLl/webapp/misc/STR-hero.jpeg",
+    "heroName": "Ada",
+    "chart": [
+        {
+            "name": "STRENGTH",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/jLl6UIy4/webapp/icons/prisms/small/STR.png"
+        },
+        {
+            "name": "AGILITY",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/qyCm7E8O/webapp/icons/prisms/small/AGY.png"
+        },
+        {
+            "name": "WISDOM",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/ECKB2oxr/webapp/icons/prisms/small/WIS.png"
+        },
+        {
+            "name": "HEART",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/UOxkDzOy/webapp/icons/prisms/small/HRT.png"
+        },
+        {
+            "name": "INTELLECT",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/DCNmz4Ui/webapp/icons/prisms/small/INT.png"
+        },
+        {
+            "name": "STRENGTH + AGILITY",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/ewkzQptC/webapp/icons/prisms/small/STA.png"
+        },
+        {
+            "name": "STRENGTH + WISDOM",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/eASzc--r/webapp/icons/prisms/small/STW.png"
+        },
+        {
+            "name": "AGILITY + WISDOM",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/iwZ1VM5p/webapp/icons/prisms/small/AGW.png"
+        },
+        {
+            "name": "STRENGTH + HEART",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/76KjdTYa/webapp/icons/prisms/small/STH.png"
+        },
+        {
+            "name": "HEART + AGILITY",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/J1fqza3B/webapp/icons/prisms/small/HRA.png"
+        },
+        {
+            "name": "HEART + WISDOM",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/HXrE6mEk/webapp/icons/prisms/small/HRW.png"
+        },
+        {
+            "name": "INTELLECT + STRENGTH",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/Wt5Cww_Z/webapp/icons/prisms/small/STI.png"
+        },
+        {
+            "name": "AGILITY + INTELLECT",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/PH0tlerT/webapp/icons/prisms/small/AGI.png"
+        },
+        {
+            "name": "INTELLECT + WISDOM",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/uZS1OOyr/webapp/icons/prisms/small/INW.png"
+        },
+        {
+            "name": "HEART + INTELLECT",
+            "winrate": "",
+            "imageUrl": "https://assets.skyweaver.net/UIFWFCoy/webapp/icons/prisms/small/HRI.png"
+        }
+    ]
+}

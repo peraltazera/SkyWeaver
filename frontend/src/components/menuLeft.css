@@ -1,0 +1,64 @@
+.leftnav {
+    width: var(--width-menuLeft);
+    position: fixed;
+    overflow: hidden;
+    border-right: 1px solid #171A22;
+    background-color: #0C0E13;
+    top: 0px;
+    bottom: 0px;
+  }
+
+.menuTop {
+    display: flex;
+    height: 80%;
+    flex-direction: column;
+    justify-content: start;
+    text-align: center;
+}
+
+.menuTop hr {
+    width: 60%;
+    border: 1px solid #171A22;
+    margin-bottom: 30px;
+}
+
+.icon {
+    width: 30%;
+    padding-bottom: 30px;
+}
+
+.logo {
+    width: 100%;
+}
+
+.menuBack {
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    text-align: center;
+}
+
+.menuBack img {
+    padding-top: 20px;
+}
+
+.menuBack button {
+    background-color: #0C0E13;
+    background-image: linear-gradient(to right, rgb(22,229,180,1) , rgb(22,229,180,0.6));
+    border: none;
+    border-radius: 6px;
+    color: white;
+    padding: 10px 0px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    width: 80%;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.menuBack button:hover {
+    color: black;
+}
