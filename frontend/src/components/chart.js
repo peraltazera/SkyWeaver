@@ -10,8 +10,6 @@ export default function Chart(props) {
     const imagesUrl = props.values.chart.map((e) => e.imageUrl)
 
     const configChart = {
-        fillOpacity: 0.2,
-        tension: 0.4,
         imageSize: 32,
         grid: {
             color: `rgb(123, 132, 143, 0.2)`,
@@ -45,7 +43,7 @@ export default function Chart(props) {
                     below: (context) => setGradient(0.5, 1, "rgb(255, 70, 85, 0)", "rgb(255, 70, 85, 0.6)", context),
                 },
                 borderColor: (context) => setGradient(0.54, 0.54, "rgb(22, 229, 180, 1)", "rgb(255, 70, 85,1)", context),
-                tension: configChart.tension,
+                tension: 0.4,
                 pointBorderWidth: 1,
                 pointHitRadius: 300,
                 showLine: true,
