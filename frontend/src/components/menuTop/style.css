@@ -20,7 +20,7 @@
 
 .menuLeft input {
     background-size: 18px;
-    background-image: url('../assets/icons/search.png');
+    background-image: url('../../assets/icons/search.png');
     background-position: 15px 10px;
     background-repeat: no-repeat;
     background-color: #181A20;
@@ -93,10 +93,6 @@
 
 .menuRight .login:hover {
     color: white;
-}
-
-.login img {
-    width: 20px;
 }
 
 .teste {

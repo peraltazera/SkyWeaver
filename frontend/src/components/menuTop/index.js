@@ -1,8 +1,7 @@
-import "./menuTop.css"
-import iconLanguage from "../assets/icons/language.png"
-import iconMenu from "../assets/icons/menu.png"
-import logo from "../assets/icons/logo.png"
-import { Fragment } from "react"
+import "./style.css"
+import iconLanguage from "../../assets/icons/language.png"
+import iconMenu from "../../assets/icons/menu.png"
+import logo from "../../assets/icons/logo.png"
 
 export default function menuTop() {
     return (

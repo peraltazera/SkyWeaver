@@ -1,0 +1,103 @@
+.login {
+    height: 100%;
+}
+
+.login .form{
+    text-align: center;
+}
+
+.login .heros{
+    text-align: center;
+}
+
+.login .heros img{
+    width: 80%;
+}
+
+.login .form img{
+    width: 55%;
+    margin-bottom: 10px;
+}
+
+.login .form div{
+    margin: auto;
+}
+
+.login .form p{
+    color: #7B848F;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.login .form p a{
+    color: #8056E3;
+}
+
+.login .form a {
+    text-decoration: none;
+    color: #7B848F;
+    font-size: 14px;
+}
+
+.login .form a:hover {
+    color: #8056E3;
+}
+
+.login .form input {
+    background-color: #181A20;
+    width: 100%;
+    color: #7B848F;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.login .form .icon {
+    width: 45px;
+    height: 45px;
+    padding: 10px;
+    text-align: center;
+}
+
+.login .form input:focus {
+    outline: none;
+}
+
+.login .form button {
+    border: none;
+    border-radius: 6px;
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: #0C0E13;
+    background-image: linear-gradient(to right, rgb(130,87,230,1) , rgb(130,87,230,0.75));
+    color: white;
+    margin-bottom: 20px;
+}
+
+.backForm {
+    background-color: #0C0E13;
+    border-right: 2px solid #171A22;
+}
+
+.arrow {
+    width: 40px;
+    margin: 20px;
+    position: fixed;
+}
+
+.input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+  

@@ -1,8 +1,8 @@
-import "./content.css"
-import AdaImg from "../assets/heroes/AdaMini.png"
-import Chart from "./chart"
-import DataBase from "../database"
-import graphWhite from "../assets/icons/graphWhite.png"
+import "./style.css"
+import AdaImg from "../../assets/heroes/AdaMini.png"
+import Chart from "../chart"
+import DataBase from "../../database"
+import graphWhite from "../../assets/icons/graphWhite.png"
 
 export default function content() {
     return (

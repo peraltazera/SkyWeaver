@@ -1,10 +1,10 @@
-import "./menuLeft.css"
-import cards from "../assets/icons/cards.png"
-import gear from "../assets/icons/gear.png"
-import logo from "../assets/icons/logo.png"
-import home from "../assets/icons/home.png"
-import trophy from "../assets/icons/trophy.png"
-import graphPurple from "../assets/icons/graphPurple.png"
+import "./style.css"
+import cards from "../../assets/icons/cards.png"
+import gear from "../../assets/icons/gear.png"
+import logo from "../../assets/icons/logo.png"
+import home from "../../assets/icons/home.png"
+import trophy from "../../assets/icons/trophy.png"
+import graphPurple from "../../assets/icons/graphPurple.png"
 
 export default function menuLeft() {
     return (
